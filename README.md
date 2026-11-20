@@ -1,23 +1,45 @@
-📚 Ders Eğitimleri
+🎓 AÖF Dersleri | Açıköğretim Eğitim Merkezi
 
-YouTube kanalımda yayınladığım eğitim videolarına ait ders notları, uygulama dosyaları, örnek kodlar ve yardımcı kaynaklar bu depoda paylaşılmaktadır.
+Açıköğretim Fakültesi (AÖF) öğrencileri için hazırlanmış ücretsiz ders anlatımları, konu özetleri, özgün soru çözümleri ve sınav hazırlık materyalleri.
 
-🎓 Eğitim Kategorileri
+📚 Eğitim Kategorileri
 
-- 📊 Excel Eğitimleri
-- 💻 SQL ve Veritabanı Eğitimleri
-- 📒 Muhasebe ve Finans Eğitimleri
-- 🤖 Yapay Zekâ ve Otomasyon Eğitimleri
-- 🛠️ Yazılım ve Uygulama Geliştirme
+- 📘 İşletme ve Yönetim Dersleri
+- 📊 İktisat Dersleri
+- 🧮 Muhasebe ve Finans Dersleri
+- ⚖️ Hukuk Dersleri
+- 📖 Ortak Üniversite Dersleri
+- 🎯 Vize, Final ve Bütünleme Hazırlıkları
 
-📂 Eğitim Dosyaları
+🎥 YouTube Ders Videoları
 
-Her eğitime ait kaynaklar ilgili klasörde düzenli olarak paylaşılacaktır.
+Her ders için video anlatımları YouTube kanalımda yayınlanacaktır.
 
-▶️ YouTube Eğitimleri
+YouTube Kanalı: Yakında eklenecek.
 
-Videoları takip ederek uygulamaları adım adım öğrenebilir, örnek dosyalar üzerinden pratik yapabilirsiniz.
+📂 Ders Notları ve Kaynaklar
 
-📌 Bilgilendirme
+Her dersin klasöründe aşağıdaki materyaller bulunabilir:
 
-Bu depo eğitim amaçlı hazırlanmıştır. Yeni dersler yayınlandıkça içerikler güncellenecektir.
+- Ünite bazlı konu özetleri
+- PDF ders notları
+- Özgün örnek sorular ve çözümleri
+- Uygulama çalışmaları
+- Vize ve final hazırlık notları
+
+🚀 Nasıl Kullanılır?
+
+1. İlgilendiğiniz bölümü seçin.
+2. Çalışmak istediğiniz dersin klasörünü açın.
+3. Ünite notlarını ve örnek soruları inceleyin.
+4. YouTube üzerinden video anlatımını takip edin.
+
+📌 Önemli Bilgilendirme
+
+Bu depo bağımsız ve ücretsiz bir eğitim paylaşım projesidir. Üniversitelerin resmî eğitim platformu değildir.
+
+İçerikler öğrencilerin bireysel çalışmalarını desteklemek amacıyla hazırlanacaktır. Telif hakkıyla korunan ders kitapları ve sınav soruları izinsiz paylaşılmayacaktır.
+
+---
+
+⭐ Yeni dersleri takip etmek için depoya yıldız verebilirsiniz.
